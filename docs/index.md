@@ -9,7 +9,7 @@ hero:
     - link: https://github.com/ObjectX-9/react18_analysis_book
       text: GitHub
       hot: true
-    - link: /00handle_write_js
+    - link: /00principle
       text: 快速开始
 ---
 
