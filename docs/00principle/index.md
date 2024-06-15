@@ -9,7 +9,7 @@ title: 1.更新日志
 order: 1
 ---
 <Alert type="error">
-  <span style="color: red">通过理解react核心概念、工作流程、工作关键、相关算法深入理解react的工作原理</span>
+  <span style="color: red">通过理解react核心概念、工作流程、工作关键、相关算法深入理解react的工作原理，因为react18默认并发模式，所以我们后续的讲解都是以并发模式为基准的</span>
 </Alert>
 
 ## 01源码环境
