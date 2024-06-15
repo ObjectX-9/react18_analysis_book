@@ -28,7 +28,7 @@ export default defineConfig({
     null,
     {
       title: '⭐️GitHub',
-      path: 'https://github.com/ObjectX-9/JS_handle_write_book',
+      path: 'https://github.com/ObjectX-9/react18_analysis_book',
     },
   ],
   resolve: {
@@ -36,6 +36,6 @@ export default defineConfig({
   },
   hash: isProd,
   // 这里用你的仓库名
-  base: isProd ? '/JS_handle_write_book/' : '/', // router base
-  publicPath: isProd ? '/JS_handle_write_book/' : '/', // router base
+  base: isProd ? '/react18_analysis_book/' : '/', // router base
+  publicPath: isProd ? '/react18_analysis_book/' : '/', // router base
 } as IConfig);

@@ -16,6 +16,6 @@ order: 1
 
 <Alert type="success">
   <span style="color: green">
-  暂时实现了这些，如果问题可以在github提<a src="https://github.com/ObjectX-9/JS_handle_write_book/issues">issue</a>
+  暂时实现了这些，如果问题可以在github提<a src="https://github.com/ObjectX-9/react18_analysis_book/issues">issue</a>
   </span>
 </Alert>
